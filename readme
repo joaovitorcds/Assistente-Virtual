@@ -1,0 +1,13 @@
+Assistente virtual com 3 funções:
+    > Falar a hora.
+    > Procurar um video do youtube.
+    > Procurar por alguma coisa na wikipédia.
+
+
+Bibliotecas nescessárias para baixar com o pip:
+
+ - speech_recognition
+ - pyttsx3
+ - datetime
+ - wikipedia
+ - pywhatkit
